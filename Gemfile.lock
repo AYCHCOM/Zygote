@@ -71,7 +71,7 @@ GEM
     rails-observers (0.1.2)
       activemodel (~> 4.0)
     rainbow (2.1.0)
-    rake (10.4.2)
+    rake (13.0.1)
     rspec (3.2.0)
       rspec-core (~> 3.2.0)
       rspec-expectations (~> 3.2.0)
@@ -121,7 +121,7 @@ PLATFORMS
 DEPENDENCIES
   pry (= 0.10.3)
   pry-byebug (= 3.3.0)
-  rake (= 10.4.2)
+  rake (= 13.0.1)
   rspec (= 3.2.0)
   rubocop (~> 0.40.0)
   simplecov (= 0.10.0)
